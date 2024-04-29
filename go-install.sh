@@ -31,7 +31,7 @@ then
     fi
   else
     echo "Cannot download Golang, please check your internet connection."
-  fi
+  fi
 else
   echo "Plase run with root user!"
 fi
